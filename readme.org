@@ -1,0 +1,2 @@
+* Summary
+A project pulled from "Practical Common Lisp" and translated into emacs-lisp.
